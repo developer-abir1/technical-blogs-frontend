@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Talk about React-redux",
+    "discription": " React-redux is a library that helps us to manage the state of the application. It is a predictable state container for JavaScript applications. It helps us to write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. It provides a great experience when using React with Redux. It helps us to write clean and maintainable code in any JavaScript application.",
+    "image": "https://unsplash.com/photos/xkBaqlcqeb4/download",
+    "author": "Saurabh",
+    "date": "2020-12-12",
+    "category": "React"
+  },
+  {
+    "title": "talk about javascript es6",
+    "discription": " javascript es6  is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.",
+    "image": "https://miro.medium.com/max/1400/1*Jr3NFSKTfQWRUyjblBSKeg.png",
+    "author": "rakib",
+    "date": "2020-12-12"
+  },
+  {
+    "title": "talk about javascript es6",
+    "discription": " javascript es6  is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.",
+    "image": "https://miro.medium.com/max/1400/1*Jr3NFSKTfQWRUyjblBSKeg.png",
+    "author": "rakib",
+    "date": "2020-12-12"
+  },
+  {
+    "title": "talk about javascript es6",
+    "discription": " javascript es6  is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.",
+    "image": "https://miro.medium.com/max/1400/1*Jr3NFSKTfQWRUyjblBSKeg.png",
+    "author": "rakib",
+    "date": "2020-12-12"
+  },
+  {
+    "title": "talk about javascript es6",
+    "discription": " javascript es6  is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.",
+    "image": "https://miro.medium.com/max/1400/1*Jr3NFSKTfQWRUyjblBSKeg.png",
+    "author": "rakib",
+    "date": "2020-12-12"
+  },
+  {
+    "title": "talk about javascript es6",
+    "discription": " javascript es6  is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.",
+    "image": "https://miro.medium.com/max/1400/1*Jr3NFSKTfQWRUyjblBSKeg.png",
+    "author": "rakib",
+    "date": "2020-12-12"
+  },
+  {
+    "title": "talk about javascript es6",
+    "discription": " javascript es6  is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.",
+    "image": "https://miro.medium.com/max/1400/1*Jr3NFSKTfQWRUyjblBSKeg.png",
+    "author": "rakib",
+    "date": "2020-12-12"
+  },
+  {
+    "title": "talk about javascript es6",
+    "discription": " javascript es6  is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.",
+    "image": "https://miro.medium.com/max/1400/1*Jr3NFSKTfQWRUyjblBSKeg.png",
+    "author": "rakib",
+    "date": "2020-12-12"
+  }
+]
